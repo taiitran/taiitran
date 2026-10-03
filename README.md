@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Tai Tran</h1>
+<h1 align="center">Hi 👋, I'm Tai Tran (like a bow-tie) </h1>
 <h3 align="center">Beginner Programmer</h3>
 
 - 🔭 I’m currently working on [Application Development](https://github.com/taiitran/CIST-3470-Application_Development)
