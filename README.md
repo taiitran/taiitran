@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Tai Tran (like a bow-tie) </h1>
 <h3 align="center">Beginner Programmer</h3>
 
-- 🔭 I’m currently working on [Application Development](https://github.com/taiitran/CIST-3470-Application_Development)
+- 🔭 I’m currently working on [Application Development](https://github.com/taiitran/CIST-3470-Application_Development), [Task-Tracker-CLI](https://github.com/taiitran/task-tracker-cli)
 
-- 🌱 I’m currently learning **python, java, and SQL.**
+- 🌱 I’m currently learning **Python, Java, and SQL.**
 
 - 👯 I’m looking to collaborate on [AppDevGroupProject](https://github.com/bigmonkeykilla/teamproject_cars)
 
-- ⚡ Fun fact **I am a powerlifter and who is decent at it...**
+- ⚡ Fun fact: **I am a powerlifter and who is decent at it...**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
